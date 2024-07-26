@@ -23,7 +23,7 @@ const greeting = {
   username: "Scott Chen",
   title: "Hi all, I'm Scott",
   subTitle: emoji(
-    "An undergraduate student using technology to make the world a better place. "
+    "I'm currently an undergraduate student at the University of Maryland, College Park. I hope to one day work as a software developer in the aerospace or defense industry. For now, I am doing my best to use technology to make the world a better place. "
   ),
   resumeLink:
     "https://drive.google.com/file/d/1EvC7TGFdcOJKg2s819Jw0yp346_KudkB/view?usp=sharing", // Set to empty to hide the button
@@ -289,7 +289,7 @@ const achievementSection = {
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        { name: "Certification", url: "" },
         {
           name: "Final Project",
           url: "https://pakistan-olx-1.firebaseapp.com/"
