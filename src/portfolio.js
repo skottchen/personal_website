@@ -227,11 +227,11 @@ const bigProjects = {
       footerLink: [
         {
           name: "View Website",
-          url: "https://www.scottchen.site/Etch-a-Sketch/"
+          url: "https://skottchen.github.io/Etch-a-Sketch/"
         },
         {
           name: "View GitHub Repo",
-          url: "https://www.scottchen.site/Etch-a-Sketch/"
+          url: "https://github.com/skottchen/Etch-a-Sketch"
         }
       ]
     }
